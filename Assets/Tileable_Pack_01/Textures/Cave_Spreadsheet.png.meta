@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: 72d033a5bb52e7b44a79196b463e743a
+timeCreated: 1528676756
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cave_Spreadsheet_0
+    21300002: Cave_Spreadsheet_1
+    21300004: Cave_Spreadsheet_2
+    21300006: Cave_Spreadsheet_3
+    21300008: Cave_Spreadsheet_4
+    21300010: Cave_Spreadsheet_5
+    21300012: Cave_Spreadsheet_6
+    21300014: Cave_Spreadsheet_7
+    21300016: Cave_Spreadsheet_8
+    21300018: Cave_Spreadsheet_9
+    21300020: Cave_Spreadsheet_10
+    21300022: Cave_Spreadsheet_11
+    21300024: Cave_Spreadsheet_12
+    21300026: Cave_Spreadsheet_13
+    21300028: Cave_Spreadsheet_14
+    21300030: Cave_Spreadsheet_15
+    21300032: Cave_Spreadsheet_16
+    21300034: Cave_Spreadsheet_17
+    21300036: Cave_Spreadsheet_18
+    21300038: Cave_Spreadsheet_19
+    21300040: Cave_Spreadsheet_20
+    21300042: Cave_Spreadsheet_21
+    21300044: Cave_Spreadsheet_22
+    21300046: Cave_Spreadsheet_23
+    21300048: Cave_Spreadsheet_24
+    21300050: Cave_Spreadsheet_25
+    21300052: Cave_Spreadsheet_26
+    21300054: Cave_Spreadsheet_27
+    21300056: Cave_Spreadsheet_28
+    21300058: Cave_Spreadsheet_29
+    21300060: Cave_Spreadsheet_30
+    21300062: Cave_Spreadsheet_31
+    21300064: Cave_Spreadsheet_32
+    21300066: Cave_Spreadsheet_33
+    21300068: Cave_Spreadsheet_34
+    21300070: Cave_Spreadsheet_35
+    21300072: Cave_Spreadsheet_36
+    21300074: Cave_Spreadsheet_37
+    21300076: Cave_Spreadsheet_38
+    21300078: Cave_Spreadsheet_39
+    21300080: Cave_Spreadsheet_40
+    21300082: Cave_Spreadsheet_41
+    21300084: Cave_Spreadsheet_42
+    21300086: Cave_Spreadsheet_43
+    21300088: Cave_Spreadsheet_44
+    21300090: Cave_Spreadsheet_45
+    21300092: Cave_Spreadsheet_46
+    21300094: Cave_Spreadsheet_47
+    21300096: Cave_Spreadsheet_48
+    21300098: Cave_Spreadsheet_49
+    21300100: Cave_Spreadsheet_50
+    21300102: Cave_Spreadsheet_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 2
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 5, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -20}
+        - {x: 24, y: -19.980072}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 5, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 5, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -20}
+        - {x: 22, y: -20}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 5, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 5, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 5, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -20}
+        - {x: 22, y: -20}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22.104637, y: 24}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 4, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -20}
+        - {x: 22, y: -20}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 4, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 22, y: 24}
+        - {x: -22, y: 24}
+        - {x: -22, y: -20}
+        - {x: 22, y: -20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 26, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21.983007, y: 24}
+        - {x: -22.00273, y: 2.9528198}
+        - {x: 24, y: 2.9728394}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 26, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: 2.9728394}
+        - {x: 24, y: 2.9728394}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 26, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: 3}
+        - {x: 22, y: 3}
+        - {x: 22, y: 24}
+      - - {x: 22, y: 3}
+        - {x: 22, y: 3}
+        - {x: 22, y: 3}
+        - {x: 22, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 26, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 24}
+        - {x: -22, y: 3}
+        - {x: 22, y: 3}
+        - {x: 22, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 4, z: 0, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 0}
+        - {x: -22, y: -20}
+        - {x: 24, y: -20}
+        - {x: 24, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -20.040985}
+        - {x: 24, y: -20}
+        - {x: 24, y: 0}
+        - {x: -24, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 2, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 0}
+        - {x: -24, y: -20}
+        - {x: 22, y: -20}
+        - {x: 22, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 4, z: 2, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 0}
+        - {x: -22, y: -20}
+        - {x: 22, y: -20}
+        - {x: 22, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: 0}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 0}
+        - {x: -24, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 0}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 2, w: 24}
+      outline: []
+      physicsShape:
+      - - {x: -21.984558, y: 0.022872925}
+        - {x: -22, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 14, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 24}
+        - {x: -12, y: -24}
+        - {x: 11, y: -24}
+        - {x: 11, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -19}
+        - {x: -11, y: -19}
+        - {x: -11, y: -24}
+        - {x: 14, y: -24}
+        - {x: 14, y: -19}
+        - {x: 24, y: -19}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 28, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21.925388, y: 24}
+        - {x: -21.923914, y: 4}
+        - {x: 24, y: 4.0547943}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 28, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: 3.9889984}
+        - {x: 24, y: 3.9469604}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 28, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 24}
+        - {x: -24, y: 4.051712}
+        - {x: 22.003662, y: 3.973648}
+        - {x: 22.085709, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Spreadsheet_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 28, z: 2, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22.030365, y: 24}
+        - {x: -21.986572, y: 4.006714}
+        - {x: 21.975616, y: 4.0587006}
+        - {x: 22.030365, y: 24}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
