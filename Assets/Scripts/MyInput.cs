@@ -71,6 +71,35 @@ public static class MyInput {
         }
     }
 
+    public static float GetRightHorizontalAxis()
+    {
+        switch (MyInput.getControllerType())
+        {
+            case (-1):
+                return Input.GetAxis("KeyboardRightHorizontal");
+            case (0):
+                return Input.GetAxis("XboxRightHorizontal");
+            case (1):
+                return Input.GetAxis("PS4RightHorizontal");
+            default:
+                return 0;
+        }
+    }
+    public static float GetRightVerticalAxis()
+    {
+        switch (MyInput.getControllerType())
+        {
+            case (-1):
+                return Input.GetAxis("KeyboardRightVertical");
+            case (0):
+                return Input.GetAxis("XboxRightVertical");
+            case (1):
+                return Input.GetAxis("PS4RightVertical");
+            default:
+                return 0;
+        }
+    }
+
     public static bool GetUnpause()
     {
         switch (MyInput.getControllerType())
